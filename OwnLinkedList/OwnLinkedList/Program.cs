@@ -55,7 +55,6 @@ namespace OwnLinkedList
 
             myList4.Admittance();
             #endregion
-
             Console.ReadLine(); // Console.ReadKey();
         }
     }
